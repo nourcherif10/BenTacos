@@ -1,0 +1,1631 @@
+# Copyright (C) 2021 EasyJobs
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: EasyJobs 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easyjobs\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-11T09:39:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: easyjobs\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "EasyJobs"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://easy.jobs"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easy solution for the job recruitment to attract, manage & hire right talent faster."
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:328
+msgid "Easyjobs - Dashboard"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:329
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:334
+msgid "Easyjobs - All Jobs"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:335
+msgid "All Jobs"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:340
+#: admin/customizer/customizer.php:2185
+msgid "Easyjobs"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:341
+msgid "Create Job"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:346
+msgid "Easyjobs - Candidates"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:347
+#: admin/partials/easyjobs-admin-display.php:104
+#: admin/partials/easyjobs-admin-display.php:140
+#: admin/partials/easyjobs-admin-display.php:177
+#: admin/partials/easyjobs-admin-display.php:213
+#: admin/partials/easyjobs-admin-display.php:250
+#: admin/partials/easyjobs-admin-display.php:285
+#: admin/partials/easyjobs-jobs-display.php:85
+#: admin/partials/easyjobs-jobs-display.php:208
+#: admin/partials/easyjobs-jobs-display.php:301
+#: admin/partials/easyjobs-pipeline-display.php:25
+msgid "Candidates"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:358
+msgid "Easyjobs - Settings"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:359
+msgid "Settings"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:453
+msgid "Easyjobs Pipelines "
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:456
+msgid "Easyjobs Candidates "
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1087
+msgid "Want to help make <strong>EasyJobs</strong> even more awesome?"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1088
+msgid "We collect non-sensitive diagnostic data and plugin usage information. Your site URL, WordPress & PHP version, plugins & themes and email address to send you the  discount coupon. This data lets us make sure this plugin always stays compatible with the most popular plugins and themes. No spam, I promise."
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1116
+msgid "Ok, you deserve it!"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1121
+msgid "I already did"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1129
+msgid "Maybe Later"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1137
+msgid "I need help"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1142
+msgid "Never show again"
+msgstr ""
+
+#: admin/class-easyjobs-admin.php:1154
+msgid "We hope you're enjoying EasyJobs! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+
+#: admin/customizer/customizer.php:36
+msgid "Landing Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:54
+#: admin/customizer/customizer.php:1232
+msgid "Container Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:78
+#: admin/customizer/customizer.php:1256
+msgid "Container Max Width"
+msgstr ""
+
+#: admin/customizer/customizer.php:102
+#: admin/customizer/customizer.php:349
+#: admin/customizer/customizer.php:1280
+#: admin/customizer/customizer.php:1456
+msgid "Content Padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:121
+#: admin/customizer/customizer.php:368
+#: admin/customizer/customizer.php:758
+#: admin/customizer/customizer.php:1299
+#: admin/customizer/customizer.php:1475
+msgid "Top"
+msgstr ""
+
+#: admin/customizer/customizer.php:141
+#: admin/customizer/customizer.php:388
+#: admin/customizer/customizer.php:778
+#: admin/customizer/customizer.php:1319
+#: admin/customizer/customizer.php:1495
+#: includes/elementor/class-easyjobs-elementor-job-list.php:320
+#: includes/elementor/class-easyjobs-elementor-job-list.php:872
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:474
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:813
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1278
+msgid "Right"
+msgstr ""
+
+#: admin/customizer/customizer.php:162
+#: admin/customizer/customizer.php:409
+#: admin/customizer/customizer.php:799
+#: admin/customizer/customizer.php:1340
+#: admin/customizer/customizer.php:1516
+msgid "Bottom"
+msgstr ""
+
+#: admin/customizer/customizer.php:182
+#: admin/customizer/customizer.php:429
+#: admin/customizer/customizer.php:819
+#: admin/customizer/customizer.php:1360
+#: admin/customizer/customizer.php:1536
+#: includes/elementor/class-easyjobs-elementor-job-list.php:312
+#: includes/elementor/class-easyjobs-elementor-job-list.php:864
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:466
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:805
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1270
+msgid "Left"
+msgstr ""
+
+#: admin/customizer/customizer.php:203
+#: admin/customizer/customizer.php:1381
+msgid "Page Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:223
+msgid "Page Section Heading Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:244
+msgid "Page Section Heading Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:267
+msgid "Page Section Heading Icon Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:287
+msgid "Page Section Heading Icon Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:306
+msgid "Company overview"
+msgstr ""
+
+#: admin/customizer/customizer.php:326
+#: admin/customizer/customizer.php:1433
+#: includes/elementor/class-easyjobs-elementor-job-list.php:904
+#: includes/elementor/class-easyjobs-elementor-job-list.php:935
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:898
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:931
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1310
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1341
+msgid "Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:445
+#: admin/customizer/customizer.php:1552
+msgid "Hide Company Info"
+msgstr ""
+
+#: admin/customizer/customizer.php:461
+#: admin/customizer/customizer.php:1568
+msgid "Hide Company Logo"
+msgstr ""
+
+#: admin/customizer/customizer.php:481
+#: admin/customizer/customizer.php:1588
+msgid "Company Name Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:505
+#: admin/customizer/customizer.php:1612
+msgid "Company Location Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:522
+msgid "Hide Company Website Button"
+msgstr ""
+
+#: admin/customizer/customizer.php:543
+msgid "Company Website Button Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:565
+msgid "Website Button Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:585
+msgid "Website Button Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:604
+msgid "Website Button Hover Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:623
+msgid "Website Button Hover Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:637
+msgid "Hide Company Description"
+msgstr ""
+
+#: admin/customizer/customizer.php:658
+msgid "Company Description Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:681
+msgid "Company Description Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:698
+#: includes/elementor/class-easyjobs-elementor-job-list.php:213
+#: includes/elementor/class-easyjobs-elementor-job-list.php:586
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:303
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:993
+msgid "Job List"
+msgstr ""
+
+#: admin/customizer/customizer.php:715
+#: admin/customizer/customizer.php:1202
+msgid "Heading"
+msgstr ""
+
+#: admin/customizer/customizer.php:738
+msgid "Column padding"
+msgstr ""
+
+#: admin/customizer/customizer.php:839
+msgid "Column Separator Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:860
+msgid "Job Title Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:883
+msgid "Job Title Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:902
+msgid "Job Title Hover Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:917
+msgid "Hide Job Metas"
+msgstr ""
+
+#: admin/customizer/customizer.php:938
+msgid "Job Meta Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:960
+msgid "Job Meta Company Link Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:979
+msgid "Job Meta Location Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:999
+msgid "Job Deadline Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1022
+msgid "Job Deadline Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1043
+msgid "Job Vacancy Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1066
+msgid "Job Vacancy Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1087
+#: admin/customizer/customizer.php:1719
+msgid "Apply Button Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1110
+#: admin/customizer/customizer.php:1763
+msgid "Apply Button Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1130
+#: admin/customizer/customizer.php:1742
+msgid "Apply Button Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1149
+#: admin/customizer/customizer.php:1802
+msgid "Apply Button Hover Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1168
+#: admin/customizer/customizer.php:1782
+msgid "Apply Button Hover Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1185
+msgid "Showcase Image"
+msgstr ""
+
+#: admin/customizer/customizer.php:1214
+msgid "Job Details Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:1396
+msgid "Display Banner Image?"
+msgstr ""
+
+#: admin/customizer/customizer.php:1413
+msgid "Job overview"
+msgstr ""
+
+#: admin/customizer/customizer.php:1636
+msgid "Job Info List Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1659
+msgid "Job Info List Label Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1679
+msgid "Job Info List Value Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:1699
+msgid "Apply Button"
+msgstr ""
+
+#: admin/customizer/customizer.php:1822
+msgid "Social Sharing"
+msgstr ""
+
+#: admin/customizer/customizer.php:1835
+msgid "Disable Social Sharing"
+msgstr ""
+
+#: admin/customizer/customizer.php:1850
+msgid "Disable Facebook"
+msgstr ""
+
+#: admin/customizer/customizer.php:1865
+msgid "Disable Twitter"
+msgstr ""
+
+#: admin/customizer/customizer.php:1880
+msgid "Disable Linkedin"
+msgstr ""
+
+#: admin/customizer/customizer.php:1901
+msgid "Social Icon Background Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1925
+msgid "Social Icon Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:1947
+msgid "Job Details"
+msgstr ""
+
+#: admin/customizer/customizer.php:1963
+msgid "Job Description Heading"
+msgstr ""
+
+#: admin/customizer/customizer.php:1983
+msgid "Page Typography"
+msgstr ""
+
+#: admin/customizer/customizer.php:2003
+msgid "H1 Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2027
+msgid "H2 Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2051
+msgid "H3 Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2075
+msgid "H4 Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2099
+msgid "H5 Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2123
+msgid "H6 Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2145
+msgid "Section Heading Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2168
+msgid "Body Content Font Size"
+msgstr ""
+
+#: admin/customizer/customizer.php:2186
+msgid "Controls the design settings for Easyjobs pages."
+msgstr ""
+
+#: admin/customizer/defaults.php:55
+#: includes/elementor/class-easyjobs-elementor-job-list.php:166
+#: public/partials/easyjobs-jobs-landing.php:63
+msgid "Open Job Positions"
+msgstr ""
+
+#: admin/customizer/defaults.php:78
+#: public/partials/easyjobs-job-details.php:256
+#: public/partials/easyjobs-jobs-landing.php:79
+msgid "Life at "
+msgstr ""
+
+#: admin/customizer/defaults.php:123
+#: public/partials/easyjobs-job-details.php:213
+msgid "So If You Are Someone Who Has"
+msgstr ""
+
+#: admin/includes/class-easyjobs-admin-candidates.php:230
+msgid "Candidate deleted successfully"
+msgstr ""
+
+#: admin/includes/class-easyjobs-admin-candidates.php:235
+msgid "Unable to delete candidate"
+msgstr ""
+
+#: admin/includes/class-easyjobs-notice.php:429
+msgid "Install Now!"
+msgstr ""
+
+#: admin/includes/class-easyjobs-page-template.php:60
+msgid "Easyjobs template"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:5
+#: admin/includes/easyjobs-settings-page-helper.php:61
+#: includes/elementor/class-easyjobs-elementor-job-list.php:146
+#: includes/elementor/class-easyjobs-elementor-job-list.php:289
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:444
+msgid "General"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:7
+#: admin/includes/easyjobs-settings-page-helper.php:63
+msgid "Save Settings"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:10
+#: admin/includes/easyjobs-settings-page-helper.php:70
+#: admin/includes/easyjobs-settings-page-helper.php:89
+msgid "General Settings"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:15
+#: admin/includes/easyjobs-settings-page-helper.php:75
+msgid "Api Key"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:25
+#: admin/includes/easyjobs-settings-page-helper.php:29
+msgid "Design"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:65
+msgid "Disconnect Api"
+msgstr ""
+
+#: admin/includes/easyjobs-settings-page-helper.php:85
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/includes/fields/easyjobs-adv_checkbox.php:11
+msgid "Advanced Design"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:25
+msgid "Version:"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:44
+#: admin/partials/easyjobs-jobs-display.php:55
+msgid "Published Jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:56
+#: admin/partials/easyjobs-dashboard-display.php:57
+#: admin/partials/easyjobs-jobs-display.php:271
+msgid "Draft Jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:68
+#: admin/partials/easyjobs-jobs-display.php:178
+msgid "Archived Jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:101
+#: admin/partials/easyjobs-admin-display.php:174
+#: admin/partials/easyjobs-admin-display.php:247
+#: includes/elementor/class-easyjobs-elementor-job-list.php:164
+#: includes/elementor/class-easyjobs-elementor-job-list.php:227
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:320
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:732
+msgid "Title"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:107
+#: admin/partials/easyjobs-admin-display.php:180
+#: admin/partials/easyjobs-admin-display.php:253
+msgid "Department"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:110
+#: admin/partials/easyjobs-admin-display.php:183
+#: admin/partials/easyjobs-admin-display.php:256
+msgid "Expiry Date"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:113
+#: admin/partials/easyjobs-admin-display.php:186
+#: admin/partials/easyjobs-admin-display.php:259
+msgid "Action"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:136
+#: admin/partials/easyjobs-admin-display.php:209
+#: admin/partials/easyjobs-admin-display.php:281
+msgid "Preview"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:138
+#: admin/partials/easyjobs-admin-display.php:211
+#: admin/partials/easyjobs-admin-display.php:283
+#: admin/partials/easyjobs-candidates-display.php:22
+#: admin/partials/easyjobs-jobs-display.php:77
+#: admin/partials/easyjobs-jobs-display.php:200
+#: admin/partials/easyjobs-jobs-display.php:293
+msgid "Pipeline"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:154
+msgid "No published jobs found"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:227
+msgid "No Draft jobs found"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-display.php:299
+msgid "No archived jobs found"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-header.php:26
+#: admin/partials/old-easyjobs-admin-landing.php:8
+msgid "Version: "
+msgstr ""
+
+#: admin/partials/easyjobs-admin-header.php:31
+msgid "Sync data"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-header.php:34
+msgid "View Company Page"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:23
+#: admin/partials/old-easyjobs-admin-landing.php:34
+msgid "Give us few more information about your company"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:27
+#: admin/partials/old-easyjobs-admin-landing.php:38
+#: includes/elementor/class-easyjobs-elementor-job-list.php:712
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:389
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1118
+msgid "Company Name"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:33
+#: admin/partials/old-easyjobs-admin-landing.php:44
+msgid "Username / Company"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:43
+#: admin/partials/easyjobs-admin-landing.php:73
+#: admin/partials/old-easyjobs-admin-landing.php:54
+#: admin/partials/old-easyjobs-admin-landing.php:84
+msgid "tips"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:45
+#: admin/partials/old-easyjobs-admin-landing.php:56
+msgid "Accepted characters for username are alphabets, numbers, hyphen & underscore."
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:50
+#: admin/partials/old-easyjobs-admin-landing.php:61
+msgid "Phone No"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:56
+#: admin/partials/old-easyjobs-admin-landing.php:67
+msgid "Industry"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:68
+#: admin/partials/old-easyjobs-admin-landing.php:79
+msgid "Website url"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:75
+#: admin/partials/old-easyjobs-admin-landing.php:86
+msgid "Tips: Website URL should look like http://www.example.com"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:80
+#: admin/partials/old-easyjobs-admin-landing.php:91
+msgid "Number of Employees*"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:97
+#: admin/partials/old-easyjobs-admin-landing.php:108
+msgid "I Agree to the Terms and Policy*"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:102
+#: admin/partials/old-easyjobs-admin-landing.php:113
+msgid "Get Started"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:238
+#: admin/partials/easyjobs-admin-landing.php:317
+#: admin/partials/easyjobs-candidate-details.php:81
+#: admin/partials/old-easyjobs-admin-landing.php:150
+#: admin/partials/old-easyjobs-admin-landing.php:224
+msgid "Email Address"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:243
+#: admin/partials/easyjobs-admin-landing.php:323
+#: admin/partials/old-easyjobs-admin-landing.php:155
+#: admin/partials/old-easyjobs-admin-landing.php:230
+msgid "Password"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:247
+#: admin/partials/old-easyjobs-admin-landing.php:120
+#: admin/partials/old-easyjobs-admin-landing.php:160
+msgid "Sign In"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:252
+#: admin/partials/old-easyjobs-admin-landing.php:163
+msgid "Forgot Password?"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:262
+#: admin/partials/old-easyjobs-admin-landing.php:172
+msgid "Api key"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:264
+#: admin/partials/old-easyjobs-admin-landing.php:174
+msgid "Enter your api key"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:268
+#: admin/partials/old-easyjobs-admin-landing.php:180
+msgid "Connect"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:280
+#: admin/partials/easyjobs-admin-landing.php:284
+#: admin/partials/old-easyjobs-admin-landing.php:188
+#: admin/partials/old-easyjobs-admin-landing.php:192
+msgid "Select Company"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:289
+#: admin/partials/old-easyjobs-admin-landing.php:197
+msgid "Save"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:301
+#: admin/partials/easyjobs-candidate-details.php:63
+#: admin/partials/old-easyjobs-admin-landing.php:208
+msgid "First Name"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:309
+#: admin/partials/easyjobs-candidate-details.php:72
+#: admin/partials/old-easyjobs-admin-landing.php:216
+msgid "Last Name"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:329
+#: admin/partials/old-easyjobs-admin-landing.php:236
+msgid "Confirm Password"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:335
+#: admin/partials/old-easyjobs-admin-landing.php:242
+msgid "Sign UP"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:361
+#: admin/partials/old-easyjobs-admin-landing.php:265
+msgid "Api Connect Failed !!"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:364
+#: admin/partials/old-easyjobs-admin-landing.php:268
+msgid "Invalid api key"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:370
+#: admin/partials/old-easyjobs-admin-landing.php:274
+msgid "Api Connected Successfully !!"
+msgstr ""
+
+#: admin/partials/easyjobs-admin-landing.php:376
+#: admin/partials/old-easyjobs-admin-landing.php:280
+msgid "Close"
+msgstr ""
+
+#: admin/partials/easyjobs-all-candidates.php:20
+msgid "Select Job"
+msgstr ""
+
+#: admin/partials/easyjobs-all-candidates.php:74
+msgid "View details"
+msgstr ""
+
+#: admin/partials/easyjobs-all-candidates.php:107
+msgid "No candidates found."
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:90
+msgid "Phone Number"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:99
+msgid "Date of Application"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:108
+msgid "Rate"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:119
+msgid "Social Profile"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:136
+msgid "Application"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:140
+#: admin/partials/easyjobs-candidate-details.php:213
+msgid "Resume"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:144
+msgid "Evaluation"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:151
+msgid "Cover Letter"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:160
+msgid "No cover letter"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:167
+msgid "EXPERIENCE"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:168
+msgid "Total Year Of Experience: "
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:168
+msgid " Years"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:181
+msgid "No job experience"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:189
+msgid "EDUCATIONAL QUALIFICATION"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:203
+msgid "No educational qualification"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:230
+msgid "AI Score"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:235
+msgid "Skills"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:310
+msgid "Quiz"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:315
+msgid "Screening Question"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:416
+#: includes/elementor/class-easyjobs-elementor-job-list.php:229
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:322
+#: public/partials/easyjobs-job-details.php:83
+msgid "Salary"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:421
+msgid "Current Salary"
+msgstr ""
+
+#: admin/partials/easyjobs-candidate-details.php:425
+msgid "Expected Salary"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:16
+#: admin/partials/easyjobs-pipeline-display.php:16
+msgid "Back To Jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:19
+#: admin/partials/easyjobs-jobs-display.php:103
+msgid "More"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:21
+msgid "Invite candidates"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:23
+msgid "Export"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:40
+msgid "Sort candidates"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:58
+msgid "Filter"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:66
+msgid "New"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:73
+msgid "Rated"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:80
+msgid "Not rated"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:90
+msgid "Filter By Stage"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:116
+msgid "Name"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:118
+msgid "Score"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:120
+msgid "Date"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:122
+msgid "Stage"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:123
+msgid "Rating"
+msgstr ""
+
+#: admin/partials/easyjobs-candidates-display.php:164
+msgid "No candidates found"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:35
+msgid "Active Candidates"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:46
+msgid "Active Jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:68
+msgid "Team Member"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:79
+msgid "Recent Applications"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:115
+msgid "Recent Jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:153
+msgid "0 applied"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:161
+#: includes/class-easyjobs-helper.php:363
+#: includes/class-easyjobs-helper.php:371
+msgid "Active"
+msgstr ""
+
+#: admin/partials/easyjobs-dashboard-display.php:163
+#: admin/partials/easyjobs-jobs-display.php:66
+#: admin/partials/easyjobs-jobs-display.php:189
+#: admin/partials/easyjobs-jobs-display.php:282
+#: includes/elementor/trait-easyjobs-elementor-template.php:187
+#: public/partials/easyjobs-job-list.php:61
+msgid "Expired"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:16
+msgid "Published jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:18
+msgid "Draft jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:21
+msgid "Archived jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:93
+#: admin/partials/easyjobs-jobs-display.php:216
+#: admin/partials/easyjobs-jobs-display.php:309
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:117
+msgid "Share"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:146
+#: admin/partials/easyjobs-jobs-display.php:239
+#: admin/partials/easyjobs-jobs-display.php:332
+msgid "Post Date: "
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:149
+#: admin/partials/easyjobs-jobs-display.php:242
+#: admin/partials/easyjobs-jobs-display.php:335
+msgid "Expiry Date: "
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:154
+#: admin/partials/easyjobs-jobs-display.php:247
+#: admin/partials/easyjobs-jobs-display.php:340
+msgid "Applied"
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:171
+#: admin/partials/easyjobs-jobs-display.php:264
+#: admin/partials/easyjobs-jobs-display.php:357
+#: admin/partials/easyjobs-jobs-display.php:364
+msgid "No jobs found."
+msgstr ""
+
+#: admin/partials/easyjobs-jobs-display.php:224
+#: admin/partials/easyjobs-jobs-display.php:317
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/easyjobs-packages.php:5
+msgid "Pricing for growing business"
+msgstr ""
+
+#: admin/partials/easyjobs-packages.php:8
+msgid "All plans start with a 14-day free trial, no credit card required and simple setup."
+msgstr ""
+
+#: admin/partials/easyjobs-pipeline-display.php:22
+msgid "Job Menu"
+msgstr ""
+
+#: admin/partials/easyjobs-pipeline-display.php:24
+msgid "All jobs"
+msgstr ""
+
+#: admin/partials/easyjobs-pipeline-display.php:30
+msgid "Edit Pipeline"
+msgstr ""
+
+#: admin/partials/easyjobs-pipeline-display.php:34
+msgid "Move To Stage"
+msgstr ""
+
+#: admin/partials/easyjobs-pipeline-display.php:107
+msgid "Years"
+msgstr ""
+
+#: admin/partials/easyjobs-shortcodes-display.php:5
+msgid "Landing page with profile"
+msgstr ""
+
+#: admin/partials/easyjobs-shortcodes-display.php:12
+#: admin/partials/easyjobs-shortcodes-display.php:26
+#: admin/partials/easyjobs-shortcodes-display.php:42
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/partials/easyjobs-shortcodes-display.php:19
+msgid "All jobs list"
+msgstr ""
+
+#: admin/partials/old-easyjobs-admin-landing.php:18
+msgid "Easy Solution For Hiring & Talent sourcing"
+msgstr ""
+
+#: admin/partials/old-easyjobs-admin-landing.php:123
+msgid "Sign Up"
+msgstr ""
+
+#: admin/partials/old-easyjobs-admin-landing.php:134
+msgid "Connect with API key"
+msgstr ""
+
+#: admin/partials/old-easyjobs-admin-landing.php:142
+msgid "Sign in with credentials"
+msgstr ""
+
+#: admin/partials/old-easyjobs-admin-landing.php:176
+msgid "Get Api Key"
+msgstr ""
+
+#: includes/class-easyjobs-helper.php:361
+msgid "Draft"
+msgstr ""
+
+#: includes/class-easyjobs-helper.php:365
+msgid "Archived"
+msgstr ""
+
+#: includes/class-easyjobs-helper.php:367
+msgid "Deleted"
+msgstr ""
+
+#: includes/class-easyjobs-helper.php:369
+msgid "Republished"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:31
+msgid "Easyjobs Job List"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:106
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:134
+msgid "Warning!"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:114
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:142
+msgid "Please set your API key on the <strong style=\"color: #d30c5c\"><a href=\""
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:153
+msgid "Hide Title"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:155
+#: includes/elementor/class-easyjobs-elementor-job-list.php:179
+#: includes/elementor/class-easyjobs-elementor-job-list.php:273
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:185
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:196
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:238
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:279
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:290
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:366
+msgid "Yes"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:156
+#: includes/elementor/class-easyjobs-elementor-job-list.php:180
+#: includes/elementor/class-easyjobs-elementor-job-list.php:274
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:186
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:197
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:239
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:280
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:291
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:367
+msgid "No"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:167
+msgid "Type your title here"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:177
+msgid "Hide Icon"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:188
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:199
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:419
+msgid "Apply Button Text"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:201
+#: includes/elementor/class-easyjobs-elementor-job-list.php:202
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:421
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:422
+#: public/partials/easyjobs-job-list.php:67
+msgid "Apply"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:222
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:315
+msgid "Order BY"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:226
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:319
+msgid "ID"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:228
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:321
+#: public/partials/easyjobs-job-details.php:74
+msgid "Vacancies"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:230
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:323
+msgid "Published Date"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:231
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:324
+msgid "Created Date"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:232
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:325
+msgid "Updated Date"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:240
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:333
+msgid "Sort BY"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:244
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:337
+msgid "ASC"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:245
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:338
+msgid "DESC"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:253
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:346
+msgid "Show Jobs"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:271
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:364
+msgid "Show Open Job Only"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:298
+#: includes/elementor/class-easyjobs-elementor-job-list.php:535
+#: includes/elementor/class-easyjobs-elementor-job-list.php:595
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:452
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:677
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1001
+msgid "Background"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:307
+#: includes/elementor/class-easyjobs-elementor-job-list.php:859
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:461
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:801
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1265
+msgid "Alignment"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:316
+#: includes/elementor/class-easyjobs-elementor-job-list.php:868
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:470
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:809
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1274
+msgid "Center"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:332
+#: includes/elementor/class-easyjobs-elementor-job-list.php:491
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:486
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:633
+msgid "Width"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:361
+#: includes/elementor/class-easyjobs-elementor-job-list.php:423
+#: includes/elementor/class-easyjobs-elementor-job-list.php:627
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:515
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:565
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1033
+msgid "Margin"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:376
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:530
+msgid "Form Padding"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:391
+#: includes/elementor/class-easyjobs-elementor-job-list.php:647
+#: includes/elementor/class-easyjobs-elementor-job-list.php:959
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:956
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1053
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1365
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:416
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:558
+msgid "Section"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:438
+#: includes/elementor/class-easyjobs-elementor-job-list.php:615
+#: includes/elementor/class-easyjobs-elementor-job-list.php:979
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:580
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:976
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1021
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1385
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:453
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:595
+msgid "Section Heading"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:462
+#: includes/elementor/class-easyjobs-elementor-job-list.php:546
+#: includes/elementor/class-easyjobs-elementor-job-list.php:678
+#: includes/elementor/class-easyjobs-elementor-job-list.php:721
+#: includes/elementor/class-easyjobs-elementor-job-list.php:751
+#: includes/elementor/class-easyjobs-elementor-job-list.php:781
+#: includes/elementor/class-easyjobs-elementor-job-list.php:811
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:604
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:688
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:770
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:830
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1084
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1127
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1157
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1187
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1217
+msgid "Color"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:474
+#: includes/elementor/class-easyjobs-elementor-job-list.php:690
+#: includes/elementor/class-easyjobs-elementor-job-list.php:733
+#: includes/elementor/class-easyjobs-elementor-job-list.php:763
+#: includes/elementor/class-easyjobs-elementor-job-list.php:793
+#: includes/elementor/class-easyjobs-elementor-job-list.php:823
+#: includes/elementor/class-easyjobs-elementor-job-list.php:851
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:616
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:753
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:782
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:842
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:869
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1096
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1139
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1169
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1199
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1229
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1257
+msgid "Typography"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:482
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:624
+msgid "Section Icon"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:513
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:655
+msgid "Height"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:557
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:699
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:604
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1010
+msgid "Separator Color "
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:669
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1075
+#: public/partials/easyjobs-job-details.php:66
+#: admin/assets/dist/js/easyjobs.js:5339
+#: admin/assets/src/react/src/components/job/tabs/BasicInfoTab.js:544
+msgid "Job Title"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:698
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1104
+msgid "Space"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:742
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1148
+msgid "Job Location"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:772
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1178
+msgid "Job Deadline"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:802
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1208
+msgid "Job Vacancies"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:841
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1247
+msgid "Job Apply Button"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:886
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:879
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1292
+msgid "Normal"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:893
+#: includes/elementor/class-easyjobs-elementor-job-list.php:924
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:741
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:886
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:919
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1299
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1330
+msgid "Text Color"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-job-list.php:917
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:912
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1323
+msgid "Hover"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:32
+msgid "Easyjobs Landing Page"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:183
+msgid "Hide Company Details"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:194
+msgid "Change Cover Image"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:208
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:249
+msgid "Upload Cover Image"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:236
+msgid "Change Logo"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:277
+msgid "Hide Job List"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:288
+msgid "Hide Company Gallery"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:381
+msgid "Text Change"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:392
+msgid "Enter Company Name"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:399
+msgid "Website Link Text"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:401
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:402
+#: public/partials/easyjobs-jobs-landing.php:44
+msgid "Explore company website"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:409
+msgid "Job List Section Title"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:411
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:412
+msgid "Open job positions"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:429
+msgid "Gallery Section Title"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:431
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:432
+msgid "Life at"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:726
+msgid "Company Info"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:761
+#: public/partials/easyjobs-job-details.php:99
+msgid "Location"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:792
+msgid "Description"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:817
+msgid "Justified"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:859
+msgid "Website Link Button"
+msgstr ""
+
+#: includes/elementor/class-easyjobs-elementor-landingpage.php:1397
+msgid "No Jobs Found"
+msgstr ""
+
+#: includes/elementor/trait-easyjobs-elementor-template.php:122
+#: includes/elementor/trait-easyjobs-elementor-template.php:203
+#: public/partials/easyjobs-job-list.php:77
+#: public/partials/easyjobs-jobs-landing.php:119
+msgid "No open jobs right now"
+msgstr ""
+
+#: includes/elementor/trait-easyjobs-elementor-template.php:170
+#: public/partials/easyjobs-job-list.php:34
+msgid "Anywhere (Remote)"
+msgstr ""
+
+#: public/includes/class-easyjobs-shortcode.php:64
+msgid "Api is not connected"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:55
+msgid "No location found"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:91
+msgid "Office time"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:103
+msgid "Anywhere"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:112
+msgid "Job Type"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:117
+msgid "Remote"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:123
+msgid "Deadline"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:133
+msgid "Apply now"
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:139
+msgid "Share On: "
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:184
+msgid "Company Description "
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:192
+msgid "Skills "
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:224
+msgid "Job Responsibilities "
+msgstr ""
+
+#: public/partials/easyjobs-job-details.php:241
+msgid "Benefits "
+msgstr ""
+
+#: public/partials/easyjobs-job-list.php:57
+msgid "No of vacancies: "
+msgstr ""
+
+#: admin/assets/dist/js/easyjobs.js:5315
+#: admin/assets/src/react/src/components/job/CreateJob.js:367
+msgid "Create a New Job"
+msgstr ""
+
+#: admin/assets/dist/js/easyjobs.js:5327
+#: admin/assets/src/react/src/components/job/EditJob.js:348
+msgid "Edit job"
+msgstr ""
+
+#: admin/assets/dist/js/easyjobs.js:5339
+#: admin/assets/src/react/src/components/job/tabs/BasicInfoTab.js:557
+msgid "Enter your job title..."
+msgstr ""
+
+#: admin/assets/dist/js/easyjobs.js:5339
+#: admin/assets/src/react/src/components/job/tabs/BasicInfoTab.js:566
+msgid "TIPS:"
+msgstr ""
+
+#: admin/assets/dist/js/easyjobs.js:5339
+#: admin/assets/src/react/src/components/job/tabs/BasicInfoTab.js:567
+msgid "The job title is essential for your job post to attract the best candidates. Please type you job title. (Example: Senior Executive)"
+msgstr ""

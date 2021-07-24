@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'el-icon';
+    src:  url('../fonts/el-icon.eot?u9p5gz');
+    src:  url('../fonts/el-icon.eot?u9p5gz#iefix') format('embedded-opentype'),
+    url('../fonts/el-icon.ttf?u9p5gz') format('truetype'),
+    url('../fonts/el-icon.woff?u9p5gz') format('woff'),
+    url('../fonts/el-icon.svg?u9p5gz#el-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'el-icon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-embedpress:before {
+    content: "\e900";
+}
+
+.icon-pdf:before {
+    content: "\e926";
+}
+/*EmbedPress Pro Controls Style Starts*/
+.elementor-control.embedpress-pro-control{
+    position: relative;
+    opacity: .9;
+}
+
+.elementor-control.embedpress-pro-control::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 99;
+    background: transparent;
+}
+
+.elementor-control.elementor-control-embedpress_pro_section.elementor-control-type-section.elementor-label-inline.elementor-control-separator-none .elementor-panel-heading-title {
+    color: #ff5544;
+}
+/*EmbedPress Pro Controls Style Ends*/
